@@ -8,6 +8,10 @@ nav {
     transition: all 0.7s;
 }
 
+.fixed-top {
+    background-color: #98ff98;
+}
+
 .sticky {
     background-color: #e75480;
     color: black;
